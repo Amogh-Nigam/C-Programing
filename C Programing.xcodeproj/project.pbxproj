@@ -438,27 +438,7 @@
 		638EDB5C2746E64B001D6501 = {
 			isa = PBXGroup;
 			children = (
-				638EDB742746E67F001D6501 /* Array Operation-Menu Driven */,
-				638EDB7F2746E6A1001D6501 /* Heap Sort-Max Heap */,
-				638EDB8A2746E6CB001D6501 /* Heap Sort-Min Heap */,
-				638EDB952746E764001D6501 /* Infix to Postfix */,
-				638EDBA02746E7DC001D6501 /* Linked List - Polynomial Add & Multiply */,
-				638EDBAB2746E8A5001D6501 /* Linked List Headnode */,
-				638EDBB62746E8D5001D6501 /* Linked List Sorted */,
-				638EDBC12746E912001D6501 /* Linked List Unsorted */,
-				638EDBCC2746E945001D6501 /* Menu Driven - Circular Queue */,
-				638EDBD72746EC2B001D6501 /* Menu Driven Priority Queue-Max Heap */,
-				638EDBE22746EC3E001D6501 /* Menu Driven Priority Queue-Min Heap */,
-				638EDBED2746EC55001D6501 /* Merge Sort Non Recursive */,
-				638EDBF82746EC64001D6501 /* Merge Sort Recursive */,
-				638EDC032746EC74001D6501 /* Polynomial Add & Multiply */,
-				638EDC0E2746ECB3001D6501 /* Postfix Exp Evaluation */,
-				638EDC192746ECBF001D6501 /* Sparse Matrix Add */,
-				638EDC242746ECE3001D6501 /* Sparse Matrix Multiply */,
-				638EDC2F2746ECF2001D6501 /* Stacks Using Struct-1 */,
-				638EDC3A2746ED0E001D6501 /* Merging Sorted Arrays */,
-				638EDC452746ED21001D6501 /* Stacks Using Struct-2 */,
-				638EDC502746ED32001D6501 /* Stacks Using Struct-3 */,
+				638EDC562746F34F001D6501 /* DSA */,
 				638EDB662746E64B001D6501 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -658,6 +638,34 @@
 				638EDC512746ED32001D6501 /* main.c */,
 			);
 			path = "Stacks Using Struct-3";
+			sourceTree = "<group>";
+		};
+		638EDC562746F34F001D6501 /* DSA */ = {
+			isa = PBXGroup;
+			children = (
+				638EDC032746EC74001D6501 /* Polynomial Add & Multiply */,
+				638EDC0E2746ECB3001D6501 /* Postfix Exp Evaluation */,
+				638EDC192746ECBF001D6501 /* Sparse Matrix Add */,
+				638EDC242746ECE3001D6501 /* Sparse Matrix Multiply */,
+				638EDC2F2746ECF2001D6501 /* Stacks Using Struct-1 */,
+				638EDC3A2746ED0E001D6501 /* Merging Sorted Arrays */,
+				638EDC452746ED21001D6501 /* Stacks Using Struct-2 */,
+				638EDC502746ED32001D6501 /* Stacks Using Struct-3 */,
+				638EDBF82746EC64001D6501 /* Merge Sort Recursive */,
+				638EDBED2746EC55001D6501 /* Merge Sort Non Recursive */,
+				638EDBE22746EC3E001D6501 /* Menu Driven Priority Queue-Min Heap */,
+				638EDBD72746EC2B001D6501 /* Menu Driven Priority Queue-Max Heap */,
+				638EDBCC2746E945001D6501 /* Menu Driven - Circular Queue */,
+				638EDBC12746E912001D6501 /* Linked List Unsorted */,
+				638EDBB62746E8D5001D6501 /* Linked List Sorted */,
+				638EDBAB2746E8A5001D6501 /* Linked List Headnode */,
+				638EDBA02746E7DC001D6501 /* Linked List - Polynomial Add & Multiply */,
+				638EDB952746E764001D6501 /* Infix to Postfix */,
+				638EDB8A2746E6CB001D6501 /* Heap Sort-Min Heap */,
+				638EDB7F2746E6A1001D6501 /* Heap Sort-Max Heap */,
+				638EDB742746E67F001D6501 /* Array Operation-Menu Driven */,
+			);
+			path = DSA;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
